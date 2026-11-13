@@ -9,8 +9,13 @@
     "reverse_repo_rate_percent": 3.75,
     "discount_rate_percent": 4.0,
     "effr_rate_percent": 3.88,
+<<<<<<< HEAD
     "sofr_rate_percent": 3.89,
     "sofr_effr_spread_percent": 0.01,
+=======
+    "sofr_rate_percent": 3.9,
+    "sofr_effr_spread_percent": 0.02,
+>>>>>>> 6bf8fdf (Update data 2026-11-13 14:13 UTC)
     "bank_credit_balance_billion": 20023.63,
     "bank_credit_weekly_change_billion": 9.47,
     "bank_credit_4w_change_billion": 130.09,
@@ -25,7 +30,13 @@
     "dgs10_rate_percent": 4.98,
     "vix": 17.49,
     "vix_date": "2026-11-11",
+<<<<<<< HEAD
     "fear_greed": 39.94,
     "fear_greed_rating": "fear",
     "fear_greed_date": "2026-11-12"
+=======
+    "fear_greed": 40.91,
+    "fear_greed_rating": "fear",
+    "fear_greed_date": "2026-11-13"
+>>>>>>> 6bf8fdf (Update data 2026-11-13 14:13 UTC)
 }
